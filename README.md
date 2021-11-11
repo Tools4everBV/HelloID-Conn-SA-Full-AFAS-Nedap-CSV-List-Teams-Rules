@@ -61,7 +61,7 @@ This Delegated Form uses the following resources in order to run
 This Powershell data source retrieves the mapped rules from the configured mapping file and shows the AFAS Organisational Units, optionally combined with AFAS jobtitles, with the mapped Nedap ONS Teams.
 
 ## Getting help
-_If you need help, feel free to ask questions_
+If you need help, feel free to ask questions on our [forum](https://forum.helloid.com/forum/helloid-connectors/service-automation/564-helloid-sa-nedap-create-employeerange-mappings)
 
 ## HelloID Docs
 The official HelloID documentation can be found at: https://docs.helloid.com/
